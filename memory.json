@@ -1,0 +1,61 @@
+{
+ "events": [
+  {
+   "id": "MEM-1",
+   "type": "issue_detected",
+   "title": "Problem detected",
+   "text": "Room-service delay appears in feedback.",
+   "issueId": "ISSUE-001",
+   "at": "2026-01-18T09:00:00.000Z"
+  },
+  {
+   "id": "MEM-2",
+   "type": "pattern_updated",
+   "title": "Pattern confirmed",
+   "text": "Multiple customers describe the same room-service delay.",
+   "issueId": "ISSUE-001",
+   "at": "2026-02-16T09:00:00.000Z"
+  },
+  {
+   "id": "MEM-3",
+   "type": "pattern_updated",
+   "title": "Recurring issue confirmed",
+   "text": "Room-Service Delay confirmed as a recurring issue.",
+   "issueId": "ISSUE-001",
+   "at": "2026-03-05T09:00:00.000Z"
+  },
+  {
+   "id": "MEM-4",
+   "type": "business_action",
+   "title": "Business action",
+   "text": "AzureNest changes kitchen workflow.",
+   "issueId": "ISSUE-001",
+   "at": "2026-03-12T09:00:00.000Z"
+  },
+  {
+   "id": "MEM-5",
+   "type": "outcome_observed",
+   "title": "Outcome signal",
+   "text": "New feedback becomes more positive about room service.",
+   "issueId": "ISSUE-001",
+   "at": "2026-04-14T09:00:00.000Z"
+  },
+  {
+   "id": "MEM-6",
+   "type": "feedback_received",
+   "title": "Room-Service Delay",
+   "text": "Demo Guest (5/5, Positive): Room service was much faster today. Really appreciated the improvement.",
+   "issueId": "ISSUE-001",
+   "at": "2026-09-29T05:14:05.198Z"
+  },
+  {
+   "id": "MEM-7",
+   "type": "outcome_observed",
+   "title": "Outcome signal",
+   "text": "Positive feedback after \"Changed kitchen workflow\". Recent feedback suggests the previously reported room-service delay is improving.",
+   "issueId": "ISSUE-001",
+   "at": "2026-09-29T05:14:05.210Z"
+  }
+ ],
+ "retained": false
+}

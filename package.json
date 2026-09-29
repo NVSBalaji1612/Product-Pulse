@@ -1,0 +1,10 @@
+{
+  "name": "productpulse-ai",
+  "version": "1.0.0",
+  "description": "ProductPulse AI - feedback intelligence with persistent Hindsight memory (hackathon MVP)",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "node --watch backend/server.js"
+  },
+  "engines": { "node": ">=18" }
+}

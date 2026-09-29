@@ -1,0 +1,44 @@
+[
+ {
+  "id": "ISSUE-006",
+  "key": "menu",
+  "name": "Menu Readability",
+  "category": "Food",
+  "status": "Small Signal"
+ },
+ {
+  "id": "ISSUE-001",
+  "key": "room-service",
+  "name": "Room-Service Delay",
+  "category": "Service",
+  "status": "Monitoring"
+ },
+ {
+  "id": "ISSUE-002",
+  "key": "check-in",
+  "name": "Check-in Waiting Time",
+  "category": "Service",
+  "status": "Open"
+ },
+ {
+  "id": "ISSUE-003",
+  "key": "breakfast",
+  "name": "Breakfast Quality",
+  "category": "Food",
+  "status": "Improving"
+ },
+ {
+  "id": "ISSUE-004",
+  "key": "staff",
+  "name": "Staff Helpfulness",
+  "category": "Staff",
+  "status": "Resolved"
+ },
+ {
+  "id": "ISSUE-005",
+  "key": "room",
+  "name": "Room Cleanliness",
+  "category": "Room",
+  "status": "Monitoring"
+ }
+]

@@ -1,0 +1,66 @@
+[
+ {
+  "id": "ACT-1",
+  "businessId": "azurenest",
+  "issueId": "ISSUE-001",
+  "action": "Reviewed room-service complaints with kitchen team",
+  "status": "Reviewing",
+  "date": "2026-02-20T10:00:00.000Z"
+ },
+ {
+  "id": "ACT-2",
+  "businessId": "azurenest",
+  "issueId": "ISSUE-001",
+  "action": "Changed kitchen workflow",
+  "status": "Monitoring",
+  "date": "2026-03-12T10:00:00.000Z"
+ },
+ {
+  "id": "ACT-3",
+  "businessId": "azurenest",
+  "issueId": "ISSUE-002",
+  "action": "Added a second front-desk agent at peak hours",
+  "status": "In Progress",
+  "date": "2026-04-02T10:00:00.000Z"
+ },
+ {
+  "id": "ACT-4",
+  "businessId": "azurenest",
+  "issueId": "ISSUE-002",
+  "action": "Piloted mobile pre-check-in",
+  "status": "In Progress",
+  "date": "2026-06-10T10:00:00.000Z"
+ },
+ {
+  "id": "ACT-5",
+  "businessId": "azurenest",
+  "issueId": "ISSUE-003",
+  "action": "Introduced new breakfast menu",
+  "status": "Addressed",
+  "date": "2026-02-05T10:00:00.000Z"
+ },
+ {
+  "id": "ACT-6",
+  "businessId": "azurenest",
+  "issueId": "ISSUE-004",
+  "action": "Hospitality training refresher",
+  "status": "Addressed",
+  "date": "2026-01-25T10:00:00.000Z"
+ },
+ {
+  "id": "ACT-7",
+  "businessId": "azurenest",
+  "issueId": "ISSUE-005",
+  "action": "Updated housekeeping checklist",
+  "status": "Monitoring",
+  "date": "2026-03-03T10:00:00.000Z"
+ },
+ {
+  "id": "ACT-8",
+  "businessId": "azurenest",
+  "issueId": "ISSUE-006",
+  "action": "Logged menu font-size review",
+  "status": "New",
+  "date": "2026-08-15T10:00:00.000Z"
+ }
+]
